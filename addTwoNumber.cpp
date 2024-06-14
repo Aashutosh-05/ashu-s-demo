@@ -4,9 +4,9 @@ using namespace std;
 
 int main()
 {
-    int a,b;
-    cin>>a>>b;
-    cout<<"Hello World "<<a+b;
+    int c,d;
+    cin>>c>>d;
+    cout<<"Hello World "<<c+d;
 
     return 0;
 }
